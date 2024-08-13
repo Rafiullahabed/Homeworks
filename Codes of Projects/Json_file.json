@@ -1,0 +1,14 @@
+{
+"database" : {
+  "host": "localhost",
+  "port" : 3306,
+  "user": "root",
+  "passwd": "password"
+},
+
+"logging": {
+  "level": "DEBUG",
+  "file": "app.log"
+}
+
+}
